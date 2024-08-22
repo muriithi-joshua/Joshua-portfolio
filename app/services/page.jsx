@@ -7,25 +7,25 @@ const services = [
   {
     num: '01',
     title: 'Web Development',
-    desc: 'We build fast, scalable, and secure web applications.',
+    desc: 'I build fast, scalable, and secure web applications.',
     href: '/web-development',  // Added href
   },
   {
     num: '02',
     title: 'UI/UX',
-    desc: 'We create intuitive and user-friendly interfaces.',
+    desc: 'I create intuitive and user-friendly interfaces.',
     href: '/ui-ux',  // Added href
   },
   {
     num: '03',
     title: 'Logo Design',
-    desc: 'We design memorable and impactful logos.',
+    desc: 'I design memorable and impactful logos.',
     href: '/logo-design',  // Added href
   },
   {
     num: '04',  // Changed from '01' to '04'
     title: 'SEO',
-    desc: 'We optimize your site to rank higher in search results.',
+    desc: 'I optimize your site to rank higher in search results.',
     href: '/seo',  // Added href
   }
 ]
